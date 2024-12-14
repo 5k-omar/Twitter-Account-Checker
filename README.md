@@ -5,6 +5,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=5k-omar&label=Repo%20views&color=0e75b6&style=flat" alt="Repo Views" /> </p>
 
   **My Discord Server**: [Join Here](https://discord.gg/tcnksFMCR9)
+
   **My Discord Open Src Server (Soon)**: [Join Here](https://discord.gg/323wKvBb45)
 
   A powerful and user-friendly tool to check Twitter account credentials (username and password) either from a file or as a single input. This tool is designed to help you validate accounts efficiently and save the results for further analysis.
