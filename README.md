@@ -1,4 +1,6 @@
 # **Twitter Account Checker**
+  # Added `twitter_checker.py` to My Open Src Server [Join Here](https://discord.gg/323wKvBb45)
+  added for not get ban by github :)
 
   [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
